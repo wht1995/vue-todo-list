@@ -14,11 +14,11 @@
 
 ​	实现对“备忘录”的增、删、查，使用 better-scroll 实现页面竖直方向上的滚动
 
+​	图裂了的话就到 `gif` 文件夹下查看
+
 - 首页
 
-![index](C:\Users\VC\Desktop\img\index.gif)
-
-
+  ![index](C:\Users\VC\Desktop\img\index.gif)
 
 - 添加
 
@@ -30,4 +30,4 @@
 
 - 滚动
 
-![scroll](C:\Users\VC\Desktop\img\scroll.gif)
+  ![scroll](C:\Users\VC\Desktop\img\scroll.gif)
