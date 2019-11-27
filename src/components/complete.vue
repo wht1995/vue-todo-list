@@ -3,9 +3,9 @@
 		<my-header titleName="已完成"></my-header>
 		<div class="wrap" ref="wrap">
 			<div class="parent-content">
-				<div v-if='datalist.length > 0'>
+				<div v-if='datalist.length != 0'>
 					<div class="box" v-for="(item, index) in datalist">
-						<img class="circle" :src="require(`../assets/${name}`)">
+						<img class="circle" :src="require(`../assets/${item.typeid}.png`)">
 						<div class="content">
 							<div class="text">{{ item.content }}</div>
 							<div class="type">类型：{{ item.type }}</div>
