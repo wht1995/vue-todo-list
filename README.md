@@ -1,6 +1,6 @@
 # 介绍说明
 
-​	此程序基于 vue + vue-cli + Express + mySql，后台代码放于 HTTP 文件夹内，**主要目的** 是再熟悉一下 Vue 的用法
+​	此程序基于 vue + vue-cli + Express + mySql，后台代码放于 HTTP 文件夹内，**主要目的** 是再熟悉一下 Vue 的用法。
 
 
 
