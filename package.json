@@ -11,14 +11,14 @@
   },
   "dependencies": {
     "@better-scroll/core": "^2.0.0-beta.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "vant": "^2.1.8",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-core": "^6.26.3",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "babel-loader": "^7.1.5",
